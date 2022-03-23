@@ -3,7 +3,10 @@
 body {
   font-family: 'Noto Sans KR', sans-serif;
 }
-
+.container {
+  display: flex;
+  gap: 20px;
+}
 .card {
   width: 200px;
   height: 300px;
